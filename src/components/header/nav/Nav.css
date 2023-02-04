@@ -1,0 +1,19 @@
+
+
+.navbar{
+    background-color: blue;
+    height: 70px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+h1{
+    padding-top: 12px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    margin-right: 3rem;
+    font-size: 1.3rem;
+}
